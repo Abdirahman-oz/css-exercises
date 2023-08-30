@@ -1,0 +1,26 @@
+.odd{
+background-color: pink;
+font-family: Verdana,"DejaVu Sans",sans-serif ;
+
+
+}
+
+#num2{
+font-size: 36px;
+color: blue;
+
+}
+
+.odd.bigger_font{
+
+font-size: 24px;;
+
+}
+
+#num4{
+background-color: greenyellow;
+font-size: 24px;
+font-weight: bold;
+
+
+}

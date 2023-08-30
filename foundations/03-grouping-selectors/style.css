@@ -1,0 +1,18 @@
+.fancy,
+.basic{
+    
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', serif;
+}
+
+.fancy{
+    background-color: black;
+    color: white;
+}
+
+.basic{
+    background-color: yellow;
+
+}
+
+
